@@ -1,0 +1,6 @@
+a.out
+.*.swp
+*~
+*-demo.c
+*-demo.cl
+*.o
